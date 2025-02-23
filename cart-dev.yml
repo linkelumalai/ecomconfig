@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/wishlist_database
-    username: link
+    username: "{cipher}279ae33b213334931c15f8cadca71c1282e1eec4bd968dcc9e2a15149f18c55b"
     password: root
     driver-class-name: org.postgresql.Driver
   jpa:
